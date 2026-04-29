@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">[Your tagline — e.g. Developer | Designer | Creator]</h3>
+<h1 align="center">Hi 👋, I'm [Opute Eugene]</h1>
+<h3 align="center">[greatness — e.g. Developer | Designer | Creator]</h3>
 
 ---
 
