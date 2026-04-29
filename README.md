@@ -23,7 +23,7 @@ Welcome to my world.
 
 <!-- CURRENT FOCUS -->
 ## 🚀 Current Focus
-- Building: **[Your Brand / Project Name]**
+- Building: **[The Eternals ]**
 - Exploring: **Fashion + Digital Design + Motion**
 - Creating: Concepts that blend **aesthetics + emotion**
 
@@ -84,9 +84,9 @@ To build a brand that:
 
 <!-- CONNECTION -->
 ## 🤝 Connect
-- Instagram: [link]  
-- Portfolio: [link]  
-- Email: [your email]  
+- Instagram: [https://www.instagram.com/theeternalsofficial1?igsh=ejdsOXA3YjVycDZj]  
+- linkedin: [link]  
+- Email: [nbeugene05@gmail.com]  
 
 ---
 
